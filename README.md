@@ -1,2 +1,2 @@
-# gen-models
-my trials to implement generative models like VAEs, GANs, diffusion, etc for different datasets / purposes
+# deep-stuff
+my implementations of deep-learning models for different purposes. 
